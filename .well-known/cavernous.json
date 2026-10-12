@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "name": "CAVERNOUS",
+  "url": "https://cavernous.co.uk",
+  "description": "Early-stage independent research and development initiative investigating intelligence, energy, computation, physical infrastructure and resource systems.",
+  "status": "research-and-development",
+  "last_updated": "2026-10-12",
+  "projects": [
+    {
+      "name": "CAVERN",
+      "focus": "Private multi-agent intelligence, research and orchestration system",
+      "public_agent_service": false
+    },
+    {
+      "name": "SCORPIO",
+      "focus": "Distributed energy infrastructure, flexible computation and resource recovery",
+      "status": "research"
+    },
+    {
+      "name": "CELESTIAL",
+      "focus": "Resource intelligence, loss detection and circular systems",
+      "status": "research"
+    }
+  ],
+  "methodology": [
+    "sense",
+    "think",
+    "act",
+    "verify"
+  ],
+  "external_agent_access": {
+    "available": false,
+    "operational_api": false,
+    "autonomous_actions_permitted": false
+  },
+  "references": [
+    "https://cavernous.co.uk/llms.txt",
+    "https://cavernous.co.uk/llms-full.txt"
+  ]
+}
