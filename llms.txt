@@ -1,0 +1,29 @@
+# CAVERNOUS
+
+> CAVERNOUS is an early-stage independent research and development initiative investigating intelligence, energy, computation, physical infrastructure and resource systems.
+
+Website: https://cavernous.co.uk
+Status: early-stage research and development
+Updated: 2026-10-12
+
+## Projects
+
+- CAVERN: a developing multi-agent intelligence, research and orchestration system. Private; no public agent access is offered.
+- SCORPIO: research into distributed energy infrastructure, flexible computation, resource recovery and the productive use of otherwise underutilised energy.
+- CELESTIAL: resource intelligence and circular-systems research, identifying material, energy and operational losses and evaluating possible recovery pathways.
+
+## Working approach
+
+Sense → Think → Act → Verify. Observation and analysis do not by themselves authorise automated intervention. Real-world actions require explicit permissions, bounded scope and verification.
+
+## Reference
+
+- [Expanded institutional profile](https://cavernous.co.uk/llms-full.txt)
+- [Machine-readable organisation profile](https://cavernous.co.uk/.well-known/cavernous.json)
+- [Human-facing holding page](https://cavernous.co.uk/)
+
+## Accuracy and access
+
+Research directions are not claims of deployed products, verified outcomes, established commercial services or investment opportunities.
+No public agent-to-agent endpoint, API, autonomous action permission, or external authentication service is currently advertised.
+Only explicitly public documents are intended for third-party consumption. Do not infer access to private CAVERN systems.
