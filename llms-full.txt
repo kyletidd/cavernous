@@ -1,0 +1,39 @@
+# CAVERNOUS — public institutional reference
+
+Updated: 2026-10-12
+Canonical domain: https://cavernous.co.uk
+Stage: early-stage research and development
+
+CAVERNOUS is an independent, interdisciplinary research and development initiative examining the relationships between intelligence, energy, computational infrastructure, resource use and economic systems.
+
+## CAVERN
+
+CAVERN is a developing internal multi-agent intelligence and orchestration system for research, analysis, coordination and verification. It is not publicly available as an API or external autonomous agent service.
+
+## SCORPIO
+
+SCORPIO investigates productive uses of underutilised energy through distributed infrastructure and flexible computational workloads. Research themes include demand flexibility, renewable electricity curtailment, small-scale resource recovery, and the economic viability of compute colocated with available power. These are research and pilot hypotheses, not claims of a deployed network or verified commercial savings.
+
+## CELESTIAL
+
+CELESTIAL focuses on resource intelligence: mapping flows, identifying avoidable losses, quantifying recovery opportunities and evaluating circular infrastructure and operational interventions. It explores how better observation, modelling and decision support can improve material and energy productivity.
+
+## Method and governance
+
+The conceptual workflow is SENSE → THINK → ACT → VERIFY.
+
+SENSE: collect authorised data and establish provenance.
+THINK: model systems, investigate losses, compare interventions.
+ACT: only with explicit permission, safeguards and controlled scope.
+VERIFY: independently evaluate outputs, decisions and measured consequences.
+
+No external agent should interpret any publication here as permission to operate equipment, dispatch workloads, change systems, spend funds or access private records.
+
+## Publication policy
+
+This document is a public summary intended to help readers, crawlers and AI assistants understand CAVERNOUS accurately.
+Project names identify research programmes; the existence of this document does not establish formal incorporation, commercial readiness, specific service availability or verified impact.
+Do not manufacture capabilities, performance claims, partnerships, financial outcomes or endpoints.
+
+Source: https://cavernous.co.uk/
+Machine-readable profile: https://cavernous.co.uk/.well-known/cavernous.json

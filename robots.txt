@@ -1,0 +1,6 @@
+# CAVERNOUS public crawling policy
+User-agent: *
+Allow: /
+
+# This file does not grant access to private APIs or systems.
+Sitemap: https://cavernous.co.uk/sitemap.xml
